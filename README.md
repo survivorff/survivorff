@@ -1,11 +1,11 @@
-<h1 align="center">Frank Fu</h1>
+<h1 align="center">survivorff</h1>
 <p align="center">
-  <em>Exchange Engineer · 11 Years Backend · 4 Years Web3</em>
+  <em>Exchange Engineer · EVM & Solana · Building in Public</em>
 </p>
 
 <p align="center">
   <a href="https://x.com/FrankFu2262">
-    <img src="https://img.shields.io/badge/𝕏_%40FrankFu2262-000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/𝕏-000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://github.com/survivorff/web3-insider">
     <img src="https://img.shields.io/badge/Web3_Insider-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -14,17 +14,13 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About
 
-I'm a backend engineer building meme coin trading infrastructure at a crypto exchange.
-
-I work with EVM and Solana transaction systems daily — from order matching and trade execution to on-chain settlement and MEV protection.
-
-Now sharing what I learn from the inside.
+Backend engineer at a crypto exchange. Work on trading systems and on-chain infrastructure across EVM and Solana.
 
 ---
 
-### ⚡ Tech Stack
+### Tech Stack
 
 <table>
   <tr>
@@ -54,30 +50,17 @@ Now sharing what I learn from the inside.
 
 ---
 
-### 📝 Latest Writing
+### Writing
 
-> Technical breakdowns from an exchange engineer's perspective.
+> On-chain tech breakdowns from the exchange side.
 
-<!-- 每发一篇新文章就在这里更新 -->
-| Article | Topic |
-|---------|-------|
-| 🔜 Lifecycle of a Transaction | On-Chain Architecture |
-| 🔜 EVM vs Solana: A Dual-Chain Dev's Take | Comparison |
-| 🔜 Meme Coin Trading Platform Internals | Exchange Tech |
-
-👉 Full list at [**web3-insider**](https://github.com/survivorff/web3-insider)
+👉 [**web3-insider**](https://github.com/survivorff/web3-insider)
 
 ---
 
-### 📊 GitHub Activity
+### Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=survivorff&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=survivorff&theme=transparent&hide_border=true" height="160" />
-</p>
-
----
-
-<p align="center">
-  <em>Building in public. Learning out loud.</em>
 </p>
